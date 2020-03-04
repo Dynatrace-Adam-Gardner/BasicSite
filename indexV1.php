@@ -1,5 +1,5 @@
 <?
-// PHP Sleep for 0 seconds before loading page.
+// PHP sleeps for 0 seconds before loading page.
 sleep(0);
 ?>
 <!doctype html>
