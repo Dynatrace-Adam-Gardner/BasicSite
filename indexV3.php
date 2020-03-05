@@ -8,7 +8,7 @@ sleep(1);
 <title>Delay Demo System: v3</title>
 <style>
 #header {
-  background-color: cornflowerblue;
+  background-color: orange;
 }
 </style>
 </head>
