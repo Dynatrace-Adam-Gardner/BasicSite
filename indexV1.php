@@ -1,4 +1,4 @@
-<?
+<?php
 // PHP sleeps for 0 seconds before loading page.
 sleep(0);
 ?>
